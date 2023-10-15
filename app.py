@@ -3,10 +3,10 @@ import tkinter as tk
 import re
 from decouple import config
 
-IPBASE_API_KEY = 'ipb_live_tCrJj33dJCpG0vUClJDB47u5wwLGLLZLbYuvnHvg'
+IPBASE_API_KEY = 'see file'
 IPBASE_API_ENDPOINT = "https://api.ipbase.com/v2/info"
 
-OPEN_WEATHER_MAP_API_KEY = '4c0bf727dcf19d000623c847178d9621'
+OPEN_WEATHER_MAP_API_KEY = 'see file'
 OPEN_WEATHER_MAP_API_ENDPOINT = 'https://api.openweathermap.org/data/2.5/weather'
 
 
@@ -94,7 +94,7 @@ root.mainloop()
 
 #gets the location:
 
-api_key = 'ipb_live_tCrJj33dJCpG0vUClJDB47u5wwLGLLZLbYuvnHvg'
+api_key = 'see file'
 ip_address = ''
 
 api_endpoint = 'https://api.ipbase.com/v2/info'
@@ -122,7 +122,7 @@ else:
 ###############################################################################################################################
 
 #gets the temp:
-api_key = '4c0bf727dcf19d000623c847178d9621'
+api_key = 'see file'
 city_name = ''
 
 api_endpoint = 'https://api.openweathermap.org/data/2.5/weather'
